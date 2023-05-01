@@ -6,3 +6,5 @@ The raw data has been collected from Indeed.com, a popular job board, and cleane
 
 # Key findings
 This analysis of job offers for analysts in Italy reveals some interesting findings. First, only 4.4% of the offers included information about the salary, which could make it difficult for candidates to evaluate job opportunities. Second, salaries for analyst positions are higher in the northern regions of the country. Finally, the three most in-demand technical skills for analysts in Italy are Excel, SQL, and Python. While these key findings provide a useful starting point for job seekers looking to enter the analyst job market in Italy, the project also uncovers additional insights that could be valuable for candidates looking to understand the requirements and trends in this field.
+
+![Immagine](https://user-images.githubusercontent.com/105851039/235433838-24e2fd94-29dc-4e29-9607-731769ccb579.jpg)
